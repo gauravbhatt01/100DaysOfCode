@@ -1,2 +1,5 @@
-# 100DaysOfCode
-Repository dedicated to my #100DaysOfCode journey
+# My #100DaysOfCode Journey
+
+**Gaurav Bhatt**   
+
+## Timeline
