@@ -1,4 +1,4 @@
-# My #100DaysOfCode Journey
+# My #100DaysOfSecurity Journey
 
 **Gaurav Bhatt**   
 
